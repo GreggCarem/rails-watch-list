@@ -10,3 +10,9 @@
 // Your CSS partials
 @import "components/index";
 @import "pages/index";
+@import "lists";
+
+body{
+  font-family: 'Roboto', sans-serif;
+  background-color: #000000;
+}
